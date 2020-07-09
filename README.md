@@ -6,7 +6,7 @@
 
   ( Well, I have recently stepped into this open source world and its really fascinating to go through the source code of some of the organisation's products which I have been using from such a long time)
 
-🙋 Currently Working on some of my cool and amazing side projects in domains of App and Web development.
+🙋 Currently Working on some of my cool and amazing side projects in domains of App Development, Web development,Blockchain and many more in the list.😗😉😊
   
 Okay you might have been bored from this long overview of mine 😂🙏🙌.
 
