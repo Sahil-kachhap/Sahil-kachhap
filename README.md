@@ -10,7 +10,7 @@
   
 Okay you might have been bored from this long overview of mine 😂🙏🙌.
 
-You can go through my Repos now ,I have been working from quite sometime.👇👇👇
+You can go through my Repos now ,I have been working from quite some time.👇👇👇
          
 You can reach me over my [Instagram](https://www.instagram.com/sahil.kachhap2452019/) profile, [LinkedIn](https://www.linkedin.com/in/sahil-kachhap) Profile.
 
