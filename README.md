@@ -12,7 +12,9 @@ Okay you might have been bored from this long overview of mine 😂🙏🙌.
 
 You can go through my Repos now ,I have been working from quite sometime.👇👇👇
          
-You can reach me over my [Instagram](https://www.instagram.com/sahil.kachhap2452019/) profile, [LinkedIn](https://www.linkedin.com/in/sahil-kachhap) Profile or [Email](Sahil.kachhap111989@gmail.com) me.
+You can reach me over my [Instagram](https://www.instagram.com/sahil.kachhap2452019/) profile, [LinkedIn](https://www.linkedin.com/in/sahil-kachhap) Profile.
+
+Email: Sahil.kachhap111989@gmail.com
 <!--
 **Sahil-kachhap/Sahil-kachhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
