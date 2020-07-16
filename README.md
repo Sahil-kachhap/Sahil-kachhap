@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am Sahil Kachhap 😎
+
+## I am Sahil Kachhap. 😎
 - A Competitive Programmer 😇
 - A Sophomore Student from BIT Mesra, pursuing Computer Science and Engineering 👦
 - And, finally an Open Source Geek.😏
@@ -12,7 +13,7 @@ Okay you might have been bored from this long overview of mine 😂🙏🙌.
 
 You can go through my Repos now ,I have been working from quite some time.👇👇👇
  
-Reach me over here 👇
+### Connect with me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-SahilKachhap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kachhap/)](https://www.linkedin.com/in/sahil-kachhap)
 [![Gmail Badge](https://img.shields.io/badge/-Sahil.Kachhap111989@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Sahil.kachhap111989@gmail.com)](mailto:Sahil.kachhap111989@gmail.com)
