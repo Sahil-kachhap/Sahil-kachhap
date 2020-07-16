@@ -16,7 +16,7 @@ Reach me over here 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-SahilKachhap-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kachhap/)](https://www.linkedin.com/in/sahil-kachhap)
 [![Gmail Badge](https://img.shields.io/badge/-Sahil.Kachhap111989@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Sahil.kachhap111989@gmail.com)](mailto:Sahil.kachhap111989@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-SahilKachhap-03a57a?style=flat-square&logo=Medium&logoColor=000000&link=https://medium.com/@sahil.kachhap111989)](https://medium.com/@sahil.kachhap111989)
+[![Medium Badge](https://img.shields.io/badge/-SahilKachhap-03a57a?style=flat-square&logo=Medium&labelColor=000000&link=https://medium.com/@sahil.kachhap111989)](https://medium.com/@sahil.kachhap111989)
 <!--
 **Sahil-kachhap/Sahil-kachhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
