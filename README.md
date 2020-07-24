@@ -25,9 +25,6 @@
 <a href="https://www.github.com/Sahil-kachhap">
   <img align="left" alt="Sahil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/SahilKachhap/">
-  <img align="left" alt="Sahil's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <a href="https://www.hackerrank.com/sahil_kachhap111?hr_r=1">
   <img align="left" alt="Sahil's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
