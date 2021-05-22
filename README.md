@@ -40,6 +40,7 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
+ ![Visitor Count](https://profile-counter.glitch.me/{Sahil-kachhap}/count.svg)
 
 <!--**Sahil-kachhap/Sahil-kachhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
