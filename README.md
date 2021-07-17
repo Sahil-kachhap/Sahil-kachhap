@@ -7,7 +7,7 @@
 
   ( Well, I have recently stepped into this open source world and its really fascinating to go through the source code of some of the organisation's products which I have been using from such a long time)
 
-🙋 Currently Working on some of my cool and amazing side projects in domains of App Development, Web development,Blockchain and many more in the list.😗😉😊
+🙋 Currently Working on some of my cool and amazing side projects in domains of Mobile Application and Web Applications development.😗😉😊
 
 <a href="https://github.com/Sahil-kachhap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-kachhap&theme=dark&hide_langs_below=1" />
