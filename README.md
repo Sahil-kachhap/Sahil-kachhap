@@ -36,17 +36,14 @@
 <a href="https://www.linkedin.com/in/sahil-kachhap">
   <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a>
-<a href="https://medium.com/@sahil.kachhap">
-  <img align="left" alt="Sahil's Medium Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 <a href="https://www.github.com/Sahil-kachhap">
   <img align="left" alt="Sahil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://leetcode.com/sahilkachhap/">
+  <img align="left" alt="Sahil's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 <a href="https://www.hackerrank.com/sahil_kachhap111?hr_r=1">
   <img align="left" alt="Sahil's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://www.codechef.com/users/sahil007437">
-  <img align="left" alt="Sahil's codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://instagram.com/Sahil.kachhap2452019/">
   <img align="left" alt="Sahil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
