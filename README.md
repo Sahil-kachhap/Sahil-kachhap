@@ -4,8 +4,7 @@
 # 💫About Me :
   - 🔭 I'm currently working on Flutter and Web projects.
   - 👯 I'm looking to collaborate on group project.
-  - 🤝 I'm looking for help with interview preparation
-  - 🌱 I'm currently learning about web 3.0
+  - 🤝 I'm looking for Full time job opportunities
   - 💬 Ask me about Flutter
    
 
