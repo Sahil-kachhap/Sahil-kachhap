@@ -2,10 +2,9 @@
 
 ## I am Sahil Kachhap. 😎
 # 💫About Me :
-  - 🔭 I'm currently working on Flutter and Web projects.
-  - 👯 I'm looking to collaborate on group project.
+  - 🔭 I'm currently exploring AI Domain.
   - 🤝 I'm looking for Full time job opportunities
-  - 💬 Ask me about Flutter
+  - 💬 Ask me about Flutter, Machine Learning, RAG, Deep Learning
    
 
 ## 🌐Socials
