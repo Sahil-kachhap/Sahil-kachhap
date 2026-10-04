@@ -1,66 +1,43 @@
-### Hi there 👋
+<div align="center">
 
-## I am Sahil Kachhap. 😎
-# 💫About Me :
-  - 🔭 I'm currently exploring AI Domain.
-  - 🤝 I'm looking for Full time job opportunities
-  - 💬 Ask me about Flutter, Machine Learning, RAG, Deep Learning
-   
+<a href="https://github.com/Sahil-kachhap"><img src="assets/hero.svg?v=1" alt="Sahil Kachhap, Software Engineer. Open to collabs." width="100%"></a>
 
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsahilkachhap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kachhap) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kachhap2sahil) 
+<img src="assets/about-life.svg?v=1" alt="What I build, and what I do off the clock: chess, RL papers, side projects." width="100%">
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sahil-kachhap&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-kachhap&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-kachhap&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="assets/stack.svg?v=1" alt="Tech stack: C++, Python, JavaScript, React.js, Node.js, Express.js, SQL, Flutter, Machine Learning." width="100%">
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sahil-kachhap&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<img src="assets/id-dashboard.svg?v=1" alt="Sahil Kachhap ID badge with GitHub stats: repositories, followers, stars and most-starred repos." width="100%">
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## Contribution city
 
----
-[![](https://visitcount.itsvg.in/api?id=Sahil-kachhap&icon=0&color=1)](https://visitcount.itsvg.in)
+A 3D night view of my contributions, rebuilt every day by [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) (see [`.github/workflows/profile-3d.yml`](.github/workflows/profile-3d.yml)).
 
-## Checkout my coding profiles: 
+<div align="center">
+<img src="profile-3d-contrib/profile-night-view.svg?v=1" alt="3D night-view city of Sahil's GitHub contributions" width="100%">
+</div>
 
-<a href="https://www.linkedin.com/in/sahil-kachhap">
-  <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
-</a>
-<a href="https://www.github.com/Sahil-kachhap">
-  <img align="left" alt="Sahil's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://leetcode.com/sahilkachhap/">
-  <img align="left" alt="Sahil's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.hackerrank.com/sahil_kachhap111?hr_r=1">
-  <img align="left" alt="Sahil's hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-<a href="https://instagram.com/Sahil.kachhap2452019/">
-  <img align="left" alt="Sahil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+## Projects
 
-</br>
-</br>
+| Project | What it is | Stars |
+| --- | --- | :---: |
+| [GDG-Devfest-India](https://github.com/Sahil-kachhap/GDG-Devfest-India) | Unofficial Flutter app for a GDG DevFest event: speakers, schedule and FAQs | 4 |
+| [forestTreesTagging](https://github.com/Sahil-kachhap/forestTreesTagging) | Helps officials run forest tree censuses and tag each tree with location and type | 1 |
+| [Batua](https://github.com/Sahil-kachhap/Batua) | Personal app to track and manage expenses | 1 |
+| [oncoscan-ai](https://github.com/Sahil-kachhap/oncoscan-ai) | Explainable brain and breast tumor detection | 0 |
+| [IT-Support-Agentic--Copilot](https://github.com/Sahil-kachhap/IT-Support-Agentic--Copilot) | Agentic copilot for IT support | 0 |
+| [RAG_based_document_search](https://github.com/Sahil-kachhap/RAG_based_document_search) | Document search powered by retrieval-augmented generation | 0 |
+| [multi_agent_trip_planner](https://github.com/Sahil-kachhap/multi_agent_trip_planner) | Multi-agent trip planner | 0 |
+| [PhisGuard](https://github.com/Sahil-kachhap/PhisGuard) | Network security project | 0 |
+| [zylo-backend](https://github.com/Sahil-kachhap/zylo-backend) | Backend for an online classifieds marketplace | 0 |
 
-### Show some ❤️ by starring some of the repositories!
-<!--**Sahil-kachhap/Sahil-kachhap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+More on my [repositories page](https://github.com/Sahil-kachhap?tab=repositories).
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/connect.svg?v=1" alt="Say hello: GitHub, email and repositories links." width="100%">
+
+[GitHub](https://github.com/Sahil-kachhap) &nbsp;|&nbsp; [Email](mailto:work.sahilkachhap@gmail.com) &nbsp;|&nbsp; [Repositories](https://github.com/Sahil-kachhap?tab=repositories)
+
+</div>
